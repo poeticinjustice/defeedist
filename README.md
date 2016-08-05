@@ -123,3 +123,12 @@ Over next weekend, I want to iron out bugs, make sure authentication works well,
 If I’m able to move more quickly (I want to stick to the sequence above, but if I can deploy an MVP before the weekend), then I would like to work on the additional features over the weekend.
 
 _I may experiment with Feedly's API_
+
+##WireFrame
+
+![defeeded wirefram](./defeeded_mock.png "defeeded wireframe")
+
+##ERD
+![defeeded erd](./defeeded_erd.png "defeeded erd")
+
+
